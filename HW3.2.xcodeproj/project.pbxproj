@@ -11,6 +11,7 @@
 		705B246D253DDF860047A8B4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705B246C253DDF860047A8B4 /* ContentView.swift */; };
 		705B246F253DDF870047A8B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 705B246E253DDF870047A8B4 /* Assets.xcassets */; };
 		705B2472253DDF870047A8B4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 705B2471253DDF870047A8B4 /* Preview Assets.xcassets */; };
+		705B247B253DDFC70047A8B4 /* CellSliderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705B247A253DDFC70047A8B4 /* CellSliderUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		705B246E253DDF870047A8B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		705B2471253DDF870047A8B4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		705B2473253DDF870047A8B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		705B247A253DDFC70047A8B4 /* CellSliderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellSliderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				705B246A253DDF860047A8B4 /* HW3_2App.swift */,
 				705B246C253DDF860047A8B4 /* ContentView.swift */,
+				705B247A253DDFC70047A8B4 /* CellSliderUIView.swift */,
 				705B246E253DDF870047A8B4 /* Assets.xcassets */,
 				705B2473253DDF870047A8B4 /* Info.plist */,
 				705B2470253DDF870047A8B4 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				705B246D253DDF860047A8B4 /* ContentView.swift in Sources */,
 				705B246B253DDF860047A8B4 /* HW3_2App.swift in Sources */,
+				705B247B253DDFC70047A8B4 /* CellSliderUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
